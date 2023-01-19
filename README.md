@@ -2,7 +2,7 @@
 
 SECTION A
 
-A1: Dependency Injection, AOP, IOC, MVC framework, DAO.
+A1: Dependency Injection, AOP, IOC, MVC framework, DAO. </br>
 A2: It is a open source application framework that provides a structure which supports for developing java applications
 A3: Advantages of Spring framework: Spring AOP, Modularity, Ease of Testability, Consistency, Use of POJO and IOC.
 A4: Pluggability, DI, AOP, Container, Lightweight, Lightly coupling
